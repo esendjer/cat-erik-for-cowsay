@@ -1,4 +1,4 @@
-# the-cat-erik-for-cowsay
+# cat-erik-for-cowsay
 
 This character (cowfile) for the cowsay was created in honor of my cat Eric.
 > cowsay version 3.03
