@@ -2,6 +2,7 @@
 
 This character (cowfile) for the cowsay was created in honor of my cat Eric.
 > cowsay version 3.03
+> TERM=xterm-256color
 
 `cat-erik.cow` - this cowfile.
 
